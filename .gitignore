@@ -1,0 +1,5 @@
+# Obsidian - configurações locais
+.obsidian/
+# Ignora .exe e .out apenas dentro da "03-Code" (e suas subpastas)
+03-Code/**/*.exe
+03-Code/**/*.out
